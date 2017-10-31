@@ -1,0 +1,4 @@
+FROM python:3.5-slim
+ADD . /usr/projects/bitcoin
+RUN pip install -r ../requirements.txt
+WORKDIR /usr/projects/bitcoin
