@@ -1,0 +1,8 @@
+*.log
+*.png
+*.jpg
+*.pyc
+*.db
+*.blp
+*.h5
+*.bcolz
